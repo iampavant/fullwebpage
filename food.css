@@ -40,20 +40,20 @@
 
 }
 .btn-menu{
-        color: #d0b200;
+        color: #fff0f0;
         background-color: transparent;
         width: 130px;
         height: 45px;
         border-style: solid;
-        border-width: 1px;
-        border-color: #d0b200;
+        border-width: 2px;
+        border-color: #7eb338;
         border-radius: 8px;
 
 }
 
 .btn-now{
     color: white;
-    background-color: #d0b200;
+    background-color: #48a9ac;
     width: 130px;
     height: 45px;
     border-width: 0;
