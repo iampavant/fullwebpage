@@ -46,8 +46,13 @@
         height: 45px;
         border-style: solid;
         border-width: 2px;
-        border-color: #7eb338;
+        border-color: #1f0410;
         border-radius: 8px;
+
+}
+.btn-menu:hover{
+  background-color: #a31a91;
+  box-shadow: 10px 10px 20px rgba(36, 36, 36, 0.5);
 
 }
 
@@ -482,4 +487,11 @@
       line-height: 34px;
     }
   }
+  .navbar-1:hover{
+    background-color: #d34b56;
+    color: #183b56;
+    border-radius: 15px;
+    scale: 1;
+  }
+
   
